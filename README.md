@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shastack
+- 👀 I’m interested in building solutions
+- 🌱 I’m currently learning machine learning  
+- 💞️ I’m looking to collaborate on AI project
+- 📫 contact @ sakasukurat@gmail.com
